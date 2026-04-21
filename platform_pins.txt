@@ -1,0 +1,35 @@
+Component	Pin Name	Board Pin	Function
+MPU-6050 Accelerometer/Gyroscope	VIN	VCC (Power)	POWER
+MPU-6050 Accelerometer/Gyroscope	GND	GND	GROUND
+MPU-6050 Accelerometer/Gyroscope	SCL	GPIO22	I2C
+MPU-6050 Accelerometer/Gyroscope	SDA	GPIO21	I2C
+MPU-6050 Accelerometer/Gyroscope	INT	GPIO2	DIGITAL
+MPU-6050 Accelerometer/Gyroscope	AD0	GPIO4	DIGITAL
+DC Motor	VCC	VCC (Power)	POWER
+DC Motor	GND	GND	GROUND
+DC Motor	IN1	GPIO5	DIGITAL
+DC Motor	IN2	GPIO18	DIGITAL
+DC Motor	EN	GPIO19	PWM
+DC Motor	VCC	VCC (Power)	POWER
+DC Motor	GND	GND	GROUND
+DC Motor	IN1	GPIO13	DIGITAL
+DC Motor	IN2	GPIO14	DIGITAL
+DC Motor	EN	GPIO16	PWM
+DC Motor	VCC	VCC (Power)	POWER
+DC Motor	GND	GND	GROUND
+DC Motor	IN1	GPIO17	DIGITAL
+DC Motor	IN2	GPIO23	DIGITAL
+DC Motor	EN	GPIO25	PWM
+DC Motor	VCC	VCC (Power)	POWER
+DC Motor	GND	GND	GROUND
+DC Motor	IN1	GPIO26	DIGITAL
+DC Motor	IN2	GPIO27	DIGITAL
+DC Motor	EN	GPIO32	PWM
+Momentary Pushbutton
+	PIN_1 (terminal A)	VCC (Power)	POWER
+Momentary Pushbutton
+	PIN_2 (terminal B)	GPIO12	DIGITAL
+Momentary Pushbutton
+	PIN_1 (terminal A)	VCC (Power)	POWER
+Momentary Pushbutton
+	PIN_2 (terminal B)	GPIO3	DIGITAL
